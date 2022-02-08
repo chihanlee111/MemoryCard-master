@@ -1,0 +1,19 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#052a35"
+    tools:context="com.vongvia.acitivity.AboutActivity" >
+
+  
+
+    <com.vongvia.anim.MyTextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/about"
+        android:textColor="#c47d7d"
+        android:textSize="16sp"
+        android:layout_gravity="center"
+        />
+
+</LinearLayout>

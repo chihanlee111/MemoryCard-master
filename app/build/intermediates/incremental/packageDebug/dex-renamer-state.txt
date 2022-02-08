@@ -1,0 +1,7 @@
+#Sun Jun 18 19:36:35 CST 2017
+base.0=/Users/liqihan/Desktop/MemoryCard-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8dbf3b7219a3c28aa45e67537dc54fe984a6c542
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/liqihan/Desktop/MemoryCard-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8f56cc8beeb6936d04971fc5ae02eead6fe8dd9b/classes.dex
+base.1=/Users/liqihan/Desktop/MemoryCard-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8f56cc8beeb6936d04971fc5ae02eead6fe8dd9b
+file.0=/Users/liqihan/Desktop/MemoryCard-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8dbf3b7219a3c28aa45e67537dc54fe984a6c542/classes.dex

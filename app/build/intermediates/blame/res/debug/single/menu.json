@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/liqihan/Desktop/empty/MemoryCard-master/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/liqihan/Desktop/empty/MemoryCard-master/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/liqihan/Desktop/empty/MemoryCard-master/app/build/intermediates/res/merged/debug/menu/about.xml",
+        "source": "/Users/liqihan/Desktop/empty/MemoryCard-master/app/src/main/res/menu/about.xml"
+    },
+    {
+        "merged": "/Users/liqihan/Desktop/MemoryCard-master/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/liqihan/Desktop/MemoryCard-master/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/liqihan/Desktop/MemoryCard-master/app/build/intermediates/res/merged/debug/menu/about.xml",
+        "source": "/Users/liqihan/Desktop/MemoryCard-master/app/src/main/res/menu/about.xml"
+    }
+]

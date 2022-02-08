@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/liqihan/Desktop/MemoryCard-master/app/build/intermediates/res/merged/debug/raw/effect.wav",
+        "source": "/Users/liqihan/Desktop/MemoryCard-master/app/src/main/res/raw/effect.wav"
+    },
+    {
+        "merged": "/Users/liqihan/Desktop/MemoryCard-master/app/build/intermediates/res/merged/debug/raw/selected.wav",
+        "source": "/Users/liqihan/Desktop/MemoryCard-master/app/src/main/res/raw/selected.wav"
+    },
+    {
+        "merged": "/Users/liqihan/Desktop/empty/MemoryCard-master/app/build/intermediates/res/merged/debug/raw/lose.wav",
+        "source": "/Users/liqihan/Desktop/empty/MemoryCard-master/app/src/main/res/raw/lose.wav"
+    },
+    {
+        "merged": "/Users/liqihan/Desktop/empty/MemoryCard-master/app/build/intermediates/res/merged/debug/raw/win.wav",
+        "source": "/Users/liqihan/Desktop/empty/MemoryCard-master/app/src/main/res/raw/win.wav"
+    },
+    {
+        "merged": "/Users/liqihan/Desktop/empty/MemoryCard-master/app/build/intermediates/res/merged/debug/raw/selected.wav",
+        "source": "/Users/liqihan/Desktop/empty/MemoryCard-master/app/src/main/res/raw/selected.wav"
+    },
+    {
+        "merged": "/Users/liqihan/Desktop/empty/MemoryCard-master/app/build/intermediates/res/merged/debug/raw/effect.wav",
+        "source": "/Users/liqihan/Desktop/empty/MemoryCard-master/app/src/main/res/raw/effect.wav"
+    },
+    {
+        "merged": "/Users/liqihan/Desktop/empty/MemoryCard-master/app/build/intermediates/res/merged/debug/raw/playing.mp3",
+        "source": "/Users/liqihan/Desktop/empty/MemoryCard-master/app/src/main/res/raw/playing.mp3"
+    },
+    {
+        "merged": "/Users/liqihan/Desktop/MemoryCard-master/app/build/intermediates/res/merged/debug/raw/lose.wav",
+        "source": "/Users/liqihan/Desktop/MemoryCard-master/app/src/main/res/raw/lose.wav"
+    },
+    {
+        "merged": "/Users/liqihan/Desktop/MemoryCard-master/app/build/intermediates/res/merged/debug/raw/win.wav",
+        "source": "/Users/liqihan/Desktop/MemoryCard-master/app/src/main/res/raw/win.wav"
+    },
+    {
+        "merged": "/Users/liqihan/Desktop/MemoryCard-master/app/build/intermediates/res/merged/debug/raw/playing.mp3",
+        "source": "/Users/liqihan/Desktop/MemoryCard-master/app/src/main/res/raw/playing.mp3"
+    }
+]

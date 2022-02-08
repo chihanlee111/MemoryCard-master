@@ -1,0 +1,255 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:id="@+id/main_root"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@drawable/base"
+              android:orientation="horizontal"
+              tools:context="com.vongvia.acitivity.MainActivity">
+
+
+    <LinearLayout
+        android:id="@+id/ButtonLayout"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TableRow
+                android:id="@+id/tableRow_zhanwei"
+                android:layout_width="12dp"
+                android:layout_height="12dp"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true">
+
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/tableRow_Time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginBottom="26dp">
+
+                <TextView
+                    android:id="@+id/textView1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="                  "/>
+
+                <TextView
+                    android:id="@+id/IV_Time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="所用時間： "
+                    android:textColor="@android:color/black" />
+
+                <TextView
+                    android:id="@+id/tv_Time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#000000"/>
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/tableRow_Wrong"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginBottom="26dp">
+
+                <TextView
+                    android:id="@+id/textView_sp2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="               "/>
+
+
+
+            </TableRow>
+
+
+        </LinearLayout>
+
+        <TableRow
+            android:id="@+id/tableRow4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginBottom="10dp">
+
+            <Button
+                android:id="@+id/Button_NewGame"
+                android:background="#2894FF"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="35dp"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"
+                android:layout_margin="20dp"
+                android:text="新遊戲"/>
+
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginBottom="10dp">
+            <Button
+                android:id="@+id/Button_rank"
+                android:layout_width="0dp"
+                android:background="#2894FF"
+                android:layout_weight="1"
+                android:layout_height="35dp"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"
+                android:layout_margin="20dp"
+                android:text="查看排名"/>
+
+            <Button
+                android:id="@+id/Button_Exit"
+                android:layout_width="0dp"
+                android:background="#2894FF"
+                android:layout_weight="1"
+                android:layout_height="35dp"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"
+                android:layout_margin="20dp"
+                android:text="結束遊戲"/>
+        </TableRow>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/IV_Group"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_marginRight="33dp"
+        android:layout_marginTop="10dp"
+        android:layout_weight="2"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TableRow
+            android:id="@+id/tableRow1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="1dp"
+            android:layout_marginBottom="26dp">
+
+            <ImageView
+                android:id="@+id/ImageView00"
+                android:layout_width="65dp"
+                android:layout_height="95dp"
+                android:layout_margin="1dp"
+
+                android:src="@drawable/card"/>
+
+            <ImageView
+                android:id="@+id/ImageView01"
+                android:layout_width="65dp"
+                android:layout_height="95dp"
+                android:layout_margin="1dp"
+                android:src="@drawable/card"/>
+
+            <ImageView
+                android:id="@+id/ImageView02"
+                android:layout_width="65dp"
+                android:layout_height="95dp"
+                android:layout_margin="1dp"
+                android:src="@drawable/card"/>
+
+            <ImageView
+                android:id="@+id/ImageView03"
+                android:layout_width="65dp"
+                android:layout_height="95dp"
+                android:layout_margin="1dp"
+                android:src="@drawable/card"/>
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="1dp"
+            android:layout_marginBottom="26dp">
+
+            <ImageView
+                android:id="@+id/ImageView04"
+                android:layout_width="65dp"
+                android:layout_height="95dp"
+                android:layout_margin="1dp"
+                android:src="@drawable/card"/>
+
+            <ImageView
+                android:id="@+id/ImageView05"
+                android:layout_width="65dp"
+                android:layout_height="95dp"
+                android:layout_margin="1dp"
+                android:src="@drawable/card"/>
+
+            <ImageView
+                android:id="@+id/ImageView06"
+                android:layout_width="65dp"
+                android:layout_height="95dp"
+                android:layout_margin="1dp"
+                android:src="@drawable/card"/>
+
+            <ImageView
+                android:id="@+id/ImageView07"
+                android:layout_width="65dp"
+                android:layout_height="95dp"
+                android:layout_margin="1dp"
+                android:src="@drawable/card"/>
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="1dp"
+            android:layout_marginBottom="26dp">
+
+            <ImageView
+                android:id="@+id/ImageView08"
+                android:layout_width="65dp"
+                android:layout_height="95dp"
+                android:layout_margin="1dp"
+                android:src="@drawable/card"/>
+
+            <ImageView
+                android:id="@+id/ImageView09"
+                android:layout_width="65dp"
+                android:layout_height="95dp"
+                android:layout_margin="1dp"
+                android:src="@drawable/card"/>
+
+            <ImageView
+                android:id="@+id/ImageView10"
+                android:layout_width="65dp"
+                android:layout_height="95dp"
+                android:layout_margin="1dp"
+                android:src="@drawable/card"/>
+
+            <ImageView
+                android:id="@+id/ImageView11"
+                android:layout_width="65dp"
+                android:layout_height="95dp"
+                android:layout_margin="1dp"
+                android:src="@drawable/card"/>
+        </TableRow>
+    </LinearLayout>
+
+
+</LinearLayout>
