@@ -1,4 +1,4 @@
 # MemoryCard-master
 
 
-Simple Android Ｃard Pairing game.
+Simple Android card pairing game.
